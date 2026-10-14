@@ -1,7 +1,7 @@
 //Spacecraft class
 public class spacecraft {
     private String name;
-    private int capacity;   // max number of astronauts
+    private int capacity;
 
     public spacecraft(String name, int capacity) {
         this.name = name;
