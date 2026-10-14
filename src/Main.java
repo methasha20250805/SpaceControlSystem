@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-// Part 5: Space Mission Control System (CLI)
+//command line interface
 public class Main {
     static List<Astronaut> astronauts = new ArrayList<>();
     static List<spacecraft> spacecrafts = new ArrayList<>();
