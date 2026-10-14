@@ -122,7 +122,7 @@ public class Main {
         for (spacecraft s : spacecrafts) s.displayInfo();
     }
 
-    // Safe integer input (avoids crashes on bad input)
+    // Safe integer input
     static int readInt(String prompt) {
         System.out.print(prompt);
         try {
