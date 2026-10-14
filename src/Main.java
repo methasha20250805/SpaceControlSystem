@@ -12,7 +12,7 @@ public class Main {
     public static void main(String[] args) {
         boolean running = true;
         while (running) {
-            System.out.println("\n===== Space Mission Control System =====");
+            System.out.println("\nSpace Mission Control System");
             System.out.println("1. Register astronaut");
             System.out.println("2. Add spacecraft");
             System.out.println("3. Create mission (assign astronauts)");
