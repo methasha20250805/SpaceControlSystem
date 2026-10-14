@@ -1,4 +1,4 @@
-// Child class: planetary exploration
+// Rover extends Spacecraft class
 public class Rover extends spacecraft {
     private String terrain;
 
