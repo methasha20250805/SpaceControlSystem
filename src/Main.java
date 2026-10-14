@@ -15,7 +15,7 @@ public class Main {
             System.out.println("\nSpace Mission Control System");
             System.out.println("1. Register astronaut");
             System.out.println("2. Add spacecraft");
-            System.out.println("3. Create mission (assign astronauts)");
+            System.out.println("3. Create mission");
             System.out.println("4. Launch mission");
             System.out.println("5. Display all missions");
             System.out.println("6. List astronauts / spacecraft");
