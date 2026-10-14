@@ -1,4 +1,4 @@
-// Part 4: Base class (parent)
+//Spacecraft class
 public class spacecraft {
     private String name;
     private int capacity;   // max number of astronauts
