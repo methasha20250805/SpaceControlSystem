@@ -7,7 +7,7 @@ public class spacecraft {
         this.name = name;
         this.capacity = capacity;
     }
-
+//getters and setters
     public String getName() { return name; }
     public int getCapacity() { return capacity; }
 
