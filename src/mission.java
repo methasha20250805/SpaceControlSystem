@@ -38,7 +38,7 @@ public class mission {
         launched = true;
         System.out.println("Mission '" + name + "' is underway!");
     }
-
+//Displaying the information
     public void displayInfo() {
         System.out.println("--- Mission: " + name + " [" + (launched ? "LAUNCHED" : "PLANNED") + "] ---");
         spacecraft.displayInfo();
