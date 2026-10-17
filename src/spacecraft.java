@@ -16,7 +16,7 @@ public class spacecraft {
     public void launch() {
         System.out.println(name + " is launching...");
     }
-
+//Displaying the information
     public void displayInfo() {
         System.out.println(getType() + ": " + name + " | Capacity: " + capacity);
     }
