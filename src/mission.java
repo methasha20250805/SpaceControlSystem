@@ -15,7 +15,7 @@ public class mission {
 
     public String getName() { return name; }
     public boolean isLaunched() { return launched; }
-
+//adding an astronaut
     public boolean addAstronaut(Astronaut a) {
         if (crew.size() >= spacecraft.getCapacity()) {
             System.out.println("Cannot add " + a.getName() + ": " + spacecraft.getName() + " is full.");
