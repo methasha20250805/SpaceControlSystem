@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // Adding a mission
+//Astronaut + spacecraft
 public class mission {
     private String name;
     private spacecraft spacecraft;
