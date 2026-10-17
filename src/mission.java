@@ -29,7 +29,7 @@ public class mission {
         crew.add(a);
         return true;
     }
-
+//Launching a spacecraft
     public void launch() {
         if (crew.isEmpty()) {
             System.out.println("Cannot launch: no astronauts assigned.");
